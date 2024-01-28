@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  color: #25282B;
+}
+
+.flex{
+  display: flex;
+}
+
+.justify-between{
+  justify-content: space-between;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header{
+  margin-bottom: 54px;
+}
